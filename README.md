@@ -8,6 +8,7 @@ My third html program practice.
 <body>
   <pre>
     <b>
+     <i>
        Making time table.
        <table border ="1">
          <caption> TIME TABLE</caption>
