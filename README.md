@@ -48,7 +48,7 @@ My third html program practice.
            <td> Biology</td>
            <td> history</td>
          </tr>
-           
+           <tr>
            <th>THRUSDAY</th>
            <th>FRIDAY</th>
            <th>SATURDAY</th>
