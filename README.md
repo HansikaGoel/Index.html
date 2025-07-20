@@ -31,7 +31,7 @@ My third html program practice.
            <td> history</td>
          </tr>
          <tr
-           <th>TUESDAY</th>
+           <td>TUESDAY</td>
            <td> maths</td>
            <td> physics</td>
            <td> Geography</td>
