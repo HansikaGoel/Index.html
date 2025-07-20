@@ -30,7 +30,7 @@ My third html program practice.
            <td> Biology</td>
            <td> history</td>
          </tr>
-         <tr
+         <tr>
            <td> TUESDAY</td>
            <td> maths</td>
            <td> physics</td>
