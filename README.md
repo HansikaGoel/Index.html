@@ -67,7 +67,7 @@ My third html program practice.
            <td> history</td>
          </tr>
           <tr>
-         <th>SATURDAY</th>
+         <td>SATURDAY</td>
           <td> maths</td>
            <td> english</td>
            <td> computer</td>
