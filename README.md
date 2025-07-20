@@ -56,19 +56,27 @@ My third html program practice.
            <td> break</td>
            <td> Biology</td>
            <td> history</td>
-
+          </tr>
+          <tr>
            <th>FRIDAY</th>
-           <th>SATURDAY</th>
+           <td> maths</td>
+           <td> english</td>
+           <td> computer</td>
+           <td> break</td>
+           <td> Biology</td>
+           <td> history</td>
          </tr>
-         <tr>
-           <
-         </tr>
-       </table>
-        
-      </pre>
-      .
-  
-      
-  </b>
+          <tr>
+         <th>SATURDAY</th>
+          <td> maths</td>
+           <td> english</td>
+           <td> computer</td>
+           <td> break</td>
+           <td> Biology</td>
+           <td> history</td>
+     </tr>
+   </table>   
+  </pre>
+ </b>
 </body>
 </html>
