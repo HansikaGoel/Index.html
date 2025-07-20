@@ -8,7 +8,6 @@ My third html program practice.
 <body>
   <pre>
     <b>
-    <i>
        Making time table.
        <table border ="1">
          <caption> TIME TABLE</caption>
@@ -40,7 +39,7 @@ My third html program practice.
            <td> history</td>
        </tr>
          <tr>
-           <th>WEDNESDAY</th>
+           <td>WEDNESDAY</td>
            <td> maths</td>
            <td> english</td>
            <td> computer</td>
