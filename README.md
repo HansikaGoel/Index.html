@@ -14,7 +14,7 @@ My third html program practice.
          <caption> TIME TABLE</caption>
          <tr>
            <th> DAY/TIME</th>
-            <th> 8:00-9:30</th>
+           <th> 8:00-9:30</th>
            <th> 9:30-11:00</th>
            <th>11:00-12:30</th>
            <th>12:30-13:30</th>
@@ -50,6 +50,13 @@ My third html program practice.
          </tr>
            <tr>
            <th>THRUSDAY</th>
+           <td> maths</td>
+           <td> english</td>
+           <td> computer</td>
+           <td> break</td>
+           <td> Biology</td>
+           <td> history</td>
+
            <th>FRIDAY</th>
            <th>SATURDAY</th>
          </tr>
