@@ -49,7 +49,7 @@ My third html program practice.
            <td> history</td>
          </tr>
            <tr>
-           <th>THRUSDAY</th>
+           <td>THRUSDAY</td>
            <td> maths</td>
            <td> english</td>
            <td> computer</td>
@@ -58,7 +58,7 @@ My third html program practice.
            <td> history</td>
           </tr>
           <tr>
-           <th>FRIDAY</th>
+           <td>FRIDAY</td>
            <td> maths</td>
            <td> english</td>
            <td> computer</td>
