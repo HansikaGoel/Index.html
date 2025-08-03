@@ -10,7 +10,7 @@ My third html program practice.
     <b>
      <i>
        Making time table.
-       <table border ="1">
+       <table border ="2">
          <caption> TIME TABLE</caption>
          <tr>
            <th> DAY/TIME</th>
