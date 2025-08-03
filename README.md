@@ -75,6 +75,9 @@ My third html program practice.
            <td> Biology</td>
            <td> history</td>
      </tr>
+       <tr>
+        <td colspan="3"> CONSISTENCY IS TGE KEY TO SUCCESS</td>
+        </tr>
    </table>   
   </pre>
  </b>
